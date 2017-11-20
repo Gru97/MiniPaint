@@ -1,0 +1,6 @@
+Circle,50,50,50,Red,None,Red,3
+Polygon:100:100:Red:None:Red:3:100,100 200,100 200,200 150,250 100,200
+Polyline:284:91:Red:3:200,200 400,250 260,203 220,300
+Line,480,292,116,266,Red,3
+Rectangle,300,300,30,40,Red,None,Red,3
+Text,Tested String,0,0,Red,Microsoft Sans Serif,12
